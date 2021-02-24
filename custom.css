@@ -1,0 +1,16 @@
+.game-board {
+    display: grid;
+    grid-template-rows: 200px 200px;
+    grid-template-columns: 200px 200px;
+     justify-content: center;
+     margin-top: 20vw;
+     
+}
+
+.box {
+    
+    border: 2px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    filter: blur(0.5rem);
+    
+  }
